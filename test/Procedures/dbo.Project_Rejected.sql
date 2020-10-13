@@ -10,4 +10,7 @@ BEGIN
 	SET Status=4
 	WHERE GUID=@strGUID
 END
+
+
+--for test git with sql server 
 GO
